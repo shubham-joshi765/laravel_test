@@ -1,6 +1,9 @@
 # Laravel Test
 
 Assignment Test
+Credential :
+Email - admin@example.com
+Password - adminpassword    
 
 ## Table of Contents
 
@@ -98,7 +101,7 @@ Before you begin, ensure you have met the following requirements:
 ```bash1
 php artisan serve 
 
-```bash2
+```
 npm run dev
 
 
